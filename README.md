@@ -8,12 +8,14 @@ The Particle Swarm Optimization (PSO) Algorithm is a computational method used t
    - f(x, y) > 19.2
    - Function: $f(x, y) = |sin(x) * cos(y) * exp(|1 - (√(x^2 + y^2) / π)|)|$
    - Range: -10 ≤ x, y ≤ 10
+   
     ![](fplot.png)
 
 2. For function g(x, y):
    - g(x, y) < -1.7 × 10^6
    - Function: $g(x, y) = x * sin(π * cos(x) * tan(y)) * sin(y / x) / (1 + cos(y / x))$
    - Range: -100 ≤ x, y ≤ 100
+     
      ![](gplot.png)
 
 ## Implementation
