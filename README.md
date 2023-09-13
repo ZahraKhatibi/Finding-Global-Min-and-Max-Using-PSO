@@ -1,5 +1,7 @@
 # Finding Global Min and Max Using Particle Swarm Optimization (PSO) Algorithm
 
+![](pic.png)
+
 ## Overview
 
 The Particle Swarm Optimization (PSO) Algorithm is a computational method used to optimize a problem iteratively by improving candidate solutions. In this project, we implement the PSO algorithm using Python to find the global maximum and minimum of two functions, f(x, y) and g(x, y), respectively. The goal is to find points (x, y) such that:
